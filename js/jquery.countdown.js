@@ -44,10 +44,10 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
         }
         dateData = {
           years: 0,
-          days: 0,
-          hours: 0,
-          min: 0,
-          sec: 0,
+          days: 9,
+          hours: 3,
+          min: 26,
+          sec: 60,
           millisec: 0
         };
         if (diff >= (365.25 * 86400)) {

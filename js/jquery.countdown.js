@@ -43,9 +43,9 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           _this.options.onEnd.apply(_this);
         }
         dateData = {
-          years: 2016,
-          days: 13,
-          hours: 24,
+          years: 0000,
+          days: 00,
+          hours: 00,
           min: 00,
           sec: 00,
           millisec: 0
@@ -111,7 +111,7 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
       return this.init();
     };
     $.countdown.defaultOptions = {
-      date: "June 7, 2087 15:03:25",
+      date: "February 13, 2016 11:59:59",
       refresh: 1000,
       onEnd: $.noop,
       render: function(date) {

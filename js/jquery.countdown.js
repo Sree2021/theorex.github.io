@@ -43,11 +43,11 @@ and GPL-3.0 (http://opensource.org/licenses/GPL-3.0) licenses.
           _this.options.onEnd.apply(_this);
         }
         dateData = {
-          years: 0,
-          days: 9,
-          hours: 3,
-          min: 26,
-          sec: 60,
+          years: 2016,
+          days: 13,
+          hours: 24,
+          min: 00,
+          sec: 00,
           millisec: 0
         };
         if (diff >= (365.25 * 86400)) {
